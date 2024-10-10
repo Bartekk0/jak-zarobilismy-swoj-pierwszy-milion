@@ -1,4 +1,4 @@
-<script lang="ts">
+<!-- <script lang="ts">
   import svelteLogo from './assets/svelte.svg'
   import viteLogo from '/vite.svg'
   import Counter from './lib/Counter.svelte'
@@ -44,4 +44,10 @@
   .read-the-docs {
     color: #888;
   }
-</style>
+</style> -->
+
+
+<script>
+  // import "./js/main.js";
+</script>
+
