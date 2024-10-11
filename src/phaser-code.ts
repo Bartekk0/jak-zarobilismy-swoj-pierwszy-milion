@@ -1,4 +1,4 @@
-import Phaser from "./js/phaser.min.js";
+// import Phaser from "./js/phaser.min.js";
 class Example extends Phaser.Scene {
     preload() {
         this.load.setBaseURL("https://labs.phaser.io");
