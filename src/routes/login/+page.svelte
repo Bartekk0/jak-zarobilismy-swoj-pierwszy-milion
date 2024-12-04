@@ -11,8 +11,7 @@
     <button type="submit">Login</button>
     <p class="text-center text-white">
       Don't have an account? <a href="/register" class="text-blue-500"
-        >Register</a
-      >
+        >Register</a>
     </p>
   </form>
 </main>
